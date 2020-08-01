@@ -1,0 +1,65 @@
+{
+  "id": "1965322",
+  "name": "hisense",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1092161",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "11446519",
+      "name": "警告",
+      "font_class": "jinggao--",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "1241375",
+      "name": "kefu",
+      "font_class": "kefu",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "1526402",
+      "name": "公告",
+      "font_class": "gonggao",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "5767779",
+      "name": "足迹",
+      "font_class": "zuji",
+      "unicode": "e755",
+      "unicode_decimal": 59221
+    },
+    {
+      "icon_id": "9668341",
+      "name": "shouji",
+      "font_class": "shouji",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "10031694",
+      "name": "ic_search",
+      "font_class": "ic_search",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "15024977",
+      "name": "ic_cart_line",
+      "font_class": "ic_cart_line",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
